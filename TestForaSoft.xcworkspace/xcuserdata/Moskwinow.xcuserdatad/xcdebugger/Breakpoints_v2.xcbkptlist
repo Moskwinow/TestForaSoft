@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EAFDBBCA-4FFF-41FC-A821-D847EF71105B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8EBCD9F-1C64-45C0-9A25-7DE2019705FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestForaSoft/Modules/DetailModule/NetworkManager/GetSong.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetch(requestModel:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "993F7AB0-6532-45E7-9FF2-6BCEA8101729"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SongResponseModel"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "993F7AB0-6532-45E7-9FF2-6BCEA8101729 - a8069ae3f8854290"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestForaSoft.SongResponseModel.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;TestForaSoft.SongResponseModel.CodingKeys&gt;"
+                  moduleName = "TestForaSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Moskwinow/Desktop/TestForaSoft/TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "993F7AB0-6532-45E7-9FF2-6BCEA8101729 - fb84ae0ed399f29f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestForaSoft.SongResponseModel.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "TestForaSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Moskwinow/Desktop/TestForaSoft/TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2CE720-7252-4491-8469-EB2FBDF5447C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SongResponseModel"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4A2CE720-7252-4491-8469-EB2FBDF5447C - a8069ae3f8854290"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestForaSoft.SongResponseModel.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;TestForaSoft.SongResponseModel.CodingKeys&gt;"
+                  moduleName = "TestForaSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Moskwinow/Desktop/TestForaSoft/TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "4A2CE720-7252-4491-8469-EB2FBDF5447C - fb84ae0ed399f29f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestForaSoft.SongResponseModel.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "TestForaSoft"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Moskwinow/Desktop/TestForaSoft/TestForaSoft/NetworkManager/Model/SongModel/SongResponseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "521ABE35-A679-4485-A9E8-BA1CCEB99977"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestForaSoft/Modules/DetailModule/Presenter/DetailPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchSong(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
